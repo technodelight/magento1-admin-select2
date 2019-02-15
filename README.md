@@ -17,7 +17,7 @@ git checkout composer.*
 Then add the following to `.git/info/exclude`:
 
 ```
-public/app/code/community/Technodelight/AdminSelect2/
+public/app/code/community/Technodelight/AdminSelect2
 public/app/design/adminhtml/default/default/layout/technodelight_adminselect2
 public/app/etc/modules/Technodelight_AdminSelect2.xml
 public/skin/adminhtml/default/default/technodelight_adminselect2
