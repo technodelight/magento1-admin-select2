@@ -1,4 +1,4 @@
 src                               app/code/community/Technodelight/AdminSelect2
 design/layout/technodelight_adminselect2    app/design/adminhtml/default/default/layout/technodelight_adminselect2
-design/skin/technodelight_adminselect2      app/skin/adminhtml/default/default/technodelight_adminselect2
+design/skin/technodelight_adminselect2      skin/adminhtml/default/default/technodelight_adminselect2
 Technodelight_AdminSelect2.xml              app/etc/modules/Technodelight_AdminSelect2.xml
