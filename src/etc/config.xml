@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Technodelight_AdminSelect2>
+            <version>1.0.0</version>
+        </Technodelight_AdminSelect2>
+    </modules>
+    <global>
+    </global>
+    <adminhtml>
+        <layout>
+            <updates>
+                <technodelight_adminselect2>
+                    <file>technodelight_adminselect2/technodelight_adminselect2.xml</file>
+                </technodelight_adminselect2>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
