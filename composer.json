@@ -2,7 +2,7 @@
     "name": "technodelight/magento1-admin-select2",
     "description": "Magento1 admin module to replace selects with select2 everywhere",
     "type": "magento-module",
-    "license": "OSLv3",
+    "license": "OSL-3.0",
     "authors": [
         {
             "name": "Zsolt Gál",
