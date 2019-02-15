@@ -9,5 +9,13 @@
             "email": "zenc@zenc.hu"
         }
     ],
-    "require": {}
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
